@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kushal
 - 👀 I’m interested in java deveoplment, machine Learning and Web Development
-- 🌱 I’m currently learning to build up my portfolios
+- 🌱 I’m currently building andriod app for outsourcing low level skilled jobs in third world countries.
 - 💞️ I’m looking to collaborate on web development projects and machine learning application project
 - 📫 You can reach me at kushalthapa65@gmail.com
 
